@@ -1,7 +1,7 @@
 - 👋 Hi, I’m José Fábio
 - 👀 I’m interested in Linguagem Python
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on estágios em Python
 - 📫 How to reach me  (jfsant4@gmail.com)
 
 <!---

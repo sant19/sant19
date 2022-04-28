@@ -2,7 +2,7 @@
 - 👀 I’m interested in Linguagem Python
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me  (jfsant4@gmail.com)
 
 <!---
 sant19/sant19 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
